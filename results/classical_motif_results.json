@@ -1,0 +1,62 @@
+{
+  "method": "classical_enumeration",
+  "motif_counts": {
+    "cascades": 26,
+    "ffls": 26,
+    "bifans": 629,
+    "total": 681
+  },
+  "keystone_species": [
+    [
+      "PANPAR",
+      "Leopard",
+      327
+    ],
+    [
+      "PANLEO",
+      "Lion",
+      321
+    ],
+    [
+      "LYCPIC",
+      "African wild dog",
+      283
+    ],
+    [
+      "CROCRO",
+      "Spotted hyena",
+      256
+    ],
+    [
+      "ACIJUB",
+      "Cheetah",
+      131
+    ],
+    [
+      "GAZGRA",
+      "Grant's gazelle",
+      121
+    ],
+    [
+      "CONTAU",
+      "Wildebeest",
+      121
+    ],
+    [
+      "GAZTHO",
+      "Thomson's gazelle",
+      121
+    ],
+    [
+      "MADKIR",
+      "Kirk's dik-dik",
+      111
+    ],
+    [
+      "PHAAET",
+      "Warthog",
+      105
+    ]
+  ],
+  "note": "Classical method counts overlapping motifs. QOMIC finds non-overlapping optimal sets."
+}

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Quantum Computing for Biodiversity: Technology Readiness Assessment"
+message: "If you use this software or data, please cite it as below."
+type: software
+authors:
+  - family-names: "Fouilloux"
+    given-names: "Anne"
+    orcid: "https://orcid.org/0000-0002-1784-2920"
+repository-code: "https://github.com/annefou/quantum-biodiversity"
+url: "https://sciencelive4all.org"
+license: MIT
+version: "0.0.1"
+date-released: "2026-01-05"
+doi: "10.5281/zenodo.18157621"
+keywords:
+  - quantum computing
+  - biodiversity
+  - food web
+  - QAOA
+  - network motifs
+  - technology readiness
+abstract: >-
+  Technology readiness assessment for quantum computing in biodiversity.
+  PRISMA review (1649→283→2 papers), Serengeti food web case study,
+  QAOA quantum simulation. Finding: feasible but not yet practical.
